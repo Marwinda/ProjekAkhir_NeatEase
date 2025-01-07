@@ -9,12 +9,12 @@
         "completed": false
       },
       {
-        "id": "1736111182237",
+        "id": "17362798366226",
         "task": "Membuat Inovasi",
         "category": "SBD",
         "createdAt": "2024-12-20",
         "deadline": "2025-01-04",
-        "completed": false
+        "completed": true
       },
       {
         "id": "1736111414532",

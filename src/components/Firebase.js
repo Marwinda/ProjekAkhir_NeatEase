@@ -4,6 +4,7 @@ import { getDatabase } from "firebase/database";
 const firebaseConfig = {
     apiKey: "AIzaSyClMQTtKMNRp-_v16Q5JDIqde8xMkRpNOs",
     authDomain: "neatease-743f7.firebaseapp.com",
+    databaseURL: "https://neatease-743f7-default-rtdb.firebaseio.com",
     projectId: "neatease-743f7",
     storageBucket: "neatease-743f7.firebasestorage.app",
     messagingSenderId: "157248078470",
